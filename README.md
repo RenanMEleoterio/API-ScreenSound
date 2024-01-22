@@ -1,5 +1,5 @@
 # SoundScreen
->OBS: Esta API foi desenvolvida durante aulas
+>OBS: Este projeto foi desenvolvido durante aulas
 
 SoundScreen é uma aplicação de músicas. Projetada para oferecer uma experiência musical imersiva, esta lhe permite registrar músicas músicas, álbuns, bandas, avaliá-las e ver seus detalhes, forneça aos usuários uma trilha sonora personalizada. Com uma descrição estilizada feita por uma AI.
 ## Funcionalidades Principais
